@@ -1,0 +1,11 @@
+.heading{
+   max-width: 1100px;
+   margin: 0 auto;
+}
+.heading h1{
+    font-weight: 800;
+    font-size: 45px;
+}
+.heading p{
+    font-weight: 500;
+}
